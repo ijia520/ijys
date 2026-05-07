@@ -38,7 +38,16 @@
         
 
 {
-  
+   "key": "瓜子影视",
+      "name": "❤瓜子｜2K线路",
+      "type": 3,
+      "jar": "https://gitee.com/lionzang/ok/raw/master/ttys/xfnn.jar",
+      "api": "csp_Gz360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
   "key": "趣看",
       "name": "🥽趣看",
       "type": 3,
