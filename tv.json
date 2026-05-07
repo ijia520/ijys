@@ -37,17 +37,6 @@
         },
         {
 
- "key": "csp_GuaZi",
-      "name": "🍉瓜子",
-      "type": 3,
-      "api": "csp_GuaZi",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "commonConfig": "https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
-      }
-    },
-    {
 		  
       "key": "wencai",
       "name": "蓝光mp4o",
@@ -55,6 +44,7 @@
       "api": "csp_WenCai",
       "playerType": 1,
       "searchable": 1,
+			 "jar": "http://ceshi.xn--z7x900a.com/ppic/feimao.php",
       "ext": "https://www.tjrongze.com,https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.jiabaide.cn"
     },
 
@@ -74,6 +64,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+		 "jar": "http://ceshi.xn--z7x900a.com/ppic/feimao.php",
       "ext": "N5u2FS3i/elUFAoSVYBznXUeEAt3X+JD9YKl5MjJCWQR4USFFmoQtTGE0mJDLVeOv00lc599YBqQsYAl+dw0i/1Jq4wgCPncJOqYhT21G0n+faZ/AOCfRq6fnnZcQCfX"
     },
 
