@@ -987,6 +987,51 @@
       }
     },
     {
+
+		   "key": "哔哩影视",
+            "name": "🅱️┃哔哩┃影视",
+            "type": 3,
+            "api": "http://fmys.top/lib/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            },
+            "ext": "http://fmys.top/lib/blys.js"
+        },
+        {
+            "key": "哔哩影音",
+            "name": "🅱️┃哔哩┃影音",
+            "type": 3,
+            "api": "http://fmys.top/lib/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            },
+            "ext": "http://fmys.top/lib/wdbl.js"
+        },
+        {
+            "key": "哔哩健身",
+            "name": "🅱️┃哔哩┃健身",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            },
+            "ext": {
+                "json": "http://fmys.top/lib/bili.json"
+            }
+        },
+        {
       "key": "闪电",
       "name": "⚡闪电",
       "type": 3,
