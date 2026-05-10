@@ -1,5 +1,5 @@
 {
-  "spider": "https://gitee.com/ijiatv/ijys/blob/master/fm.jar;542ed744b07121213f70323b9bcbecca",
+  "spider": "https://gitee.com/ijiatv/ijys/blob/master/fm.jar;md5;542ed744b07121213f70323b9bcbecca",
   "logo": "http://fmys.top/images/logo.png",
   "wallpaper": "http://fmys.top/img.php",
   "warningText": "❤驸马影视 随心观影❤",
@@ -7,21 +7,21 @@
     {
       "name": "驸马影视•直播合集",
       "type": 0,
-      "url": "http://fmys.top/lib/tvlive.txt",
+      "url": "./lib/tvlive.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
       "name": "驸马影视•电信专线",
       "type": 0,
-      "url": "http://fmys.top/lib/live.m3u",
+      "url": "./lib/live.m3u",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
       "name": "驸马影视•移动专线",
       "type": 0,
-      "url": "http://fmys.top/lib/yidong.m3u",
+      "url": "./lib/yidong.m3u",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
@@ -36,12 +36,12 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "👒┃豆瓣┃推荐┃野草口令CF6F❤",
+      "name": "👒┃豆瓣┃推荐┃❤驸马影视 随心观影❤",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0,
       "changeable": 1,
-      "ext": "http://fmys.top/lib/douban.json"
+      "ext": "./lib/douban.json"
     },
     {
       "key": "网盘配置",
@@ -55,10 +55,7 @@
         "ratio": 1.597
       }
     },
-    
-
-{"key":"卧龙资源","name":"卧龙资源(切)","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{
+    {
       "key": "FirstAid",
       "name": "🚑 ┃急救┃知识 ",
       "type": 3,
@@ -97,7 +94,7 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "http://fmys.top/lib/blts.json"
+        "json": "./lib/blts.json"
       }
     },
     {
@@ -144,7 +141,7 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "http://fmys.top/lib/bilijihe.json"
+        "json": "./lib/bilijihe.json"
       }
     },
     {
@@ -565,8 +562,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://fmys.top/lib/XBPQ.jar;md5;423e33ec108c0f7816200cebaf18fb69",
-      "ext": "http://fmys.top/lib/wcys.json"
+      "jar": "./lib/XBPQ.jar;md5;423e33ec108c0f7816200cebaf18fb69",
+      "ext": "./lib/wcys.json"
     },
     {
       "key": "py_apple",
@@ -643,29 +640,29 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://fmys.top/lib/XBPQ.jar;md5;423e33ec108c0f7816200cebaf18fb69",
-      "ext": "http://fmys.top/lib/hhyy.json"
+      "jar": "./lib/XBPQ.jar;md5;423e33ec108c0f7816200cebaf18fb69",
+      "ext": "./lib/hhyy.json"
     },
     {
       "key": "XBPQ_电影先生",
       "name": "📽︎┃电影┃先生",
       "type": 3,
-      "jar": "http://fmys.top/lib/XBPQ.jar;md5;423e33ec108c0f7816200cebaf18fb69",
+      "jar": "./lib/XBPQ.jar;md5;423e33ec108c0f7816200cebaf18fb69",
       "api": "csp_XBPQ",
       "changeable": 1,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://fmys.top/lib/dyxs.json"
+      "ext": "./lib/dyxs.json"
     },
     {
       "key": "白嫖联盟",
       "name": "🎐┃白嫖┃联盟",
       "type": 3,
-      "api": "http://fmys.top/lib/drpy2.min.js",
+      "api": "./lib/drpy2.min.js",
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "http://fmys.top/lib/bplm.js"
+      "ext": "./lib/bplm.js"
     },
     {
       "key": "采集机器人",
@@ -690,12 +687,12 @@
       "key": "饺子影院",
       "name": "🥟┃饺子┃影院",
       "type": 3,
-      "api": "http://fmys.top/lib/drpy2.min.js",
+      "api": "./lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
-      "ext": "http://fmys.top/lib/jzyy.js"
+      "ext": "./lib/jzyy.js"
     },
     {
       "key": "红果短剧",
@@ -710,11 +707,11 @@
       "key": "奇米动漫",
       "name": "🍿┃奇米┃动漫",
       "type": 3,
-      "api": "http://fmys.top/lib/drpy2.min.js",
+      "api": "./lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "http://fmys.top/lib/qmdm.js"
+      "ext": "./lib/qmdm.js"
     },
     {
       "key": "巴士",
@@ -746,21 +743,21 @@
       "key": "csp_huya",
       "name": "🐯┃虎牙┃直播",
       "type": 3,
-      "api": "http://fmys.top/lib/drpy2.min.js",
+      "api": "./lib/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "http://fmys.top/lib/huya.js"
+      "ext": "./lib/huya.js"
     },
     {
       "key": "csp_douyu",
       "name": "🦈┃斗鱼┃直播",
       "type": 3,
-      "api": "http://fmys.top/lib/drpy2.min.js",
+      "api": "./lib/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "http://fmys.top/lib/douyu.js"
+      "ext": "./lib/douyu.js"
     },
     {
       "key": "88js",
@@ -788,7 +785,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "ext": {
-        "json": "http://fmys.top/lib/song.json"
+        "json": "./lib/song.json"
       }
     },
     {
@@ -796,7 +793,7 @@
       "name": "🎸┃酷奇┃MV",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "http://fmys.top/lib/XBPQ.jar;md5;423e33ec108c0f7816200cebaf18fb69",
+      "jar": "./lib/XBPQ.jar;md5;423e33ec108c0f7816200cebaf18fb69",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
@@ -830,270 +827,8 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "http://fmys.top/lib/mtv.json"
+        "json": "./lib/mtv.json"
       }
-    },
-    {
-"key": "小灯塔国学",
-      "name": "🌟七星智教┃国学🌟",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://raw.giteeusercontent.com/tianwikeji/qxzj/raw/master/lib/灯塔国学.json"
-    },
-    {
-      "key": "小灯塔科学",
-      "name": "🌟灯塔┃科学🌟",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://raw.giteeusercontent.com/tianwikeji/qxzj/raw/master/lib/小灯塔科学.json"
-    },
-    {
-      "key": "小灯塔地理",
-      "name": "🌟灯塔┃地理🌟",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://raw.giteeusercontent.com/tianwikeji/qxzj/raw/master/lib/小灯塔地理.json"
-    },
-    {
-      "key": "小灯塔百科",
-      "name": "🌟灯塔┃百科🌟",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://raw.giteeusercontent.com/tianwikeji/qxzj/raw/master/lib/小灯塔百科.json"
-    },
-    {
-      "key": "hipy_js_贝乐虎[儿]",
-      "name": "🌟儿歌┃儿童🌟",
-      "type": 3,
-      "api": "https://raw.giteeusercontent.com/tianwikeji/qxzj/raw/master/lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "https://raw.giteeusercontent.com/tianwikeji/qxzj/raw/master/lib/贝乐虎[儿].js"
-    },
-    {
-      "key": "csp_Bili幼儿",
-      "name": "🌟幼儿┃乐园🌟",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://raw.giteeusercontent.com/tianwikeji/qxzj/raw/master/lib/幼儿乐园.json"
-    },
-    {
-      "key": "儿童口才",
-      "name": "🌟口才┃儿童🌟",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://raw.giteeusercontent.com/tianwikeji/qxzj/raw/master/lib/儿童口才.json"
-    },
-    {
-      "key": "儿童拼音",
-      "name": "🌟拼音┃儿童🌟",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://raw.giteeusercontent.com/tianwikeji/qxzj/raw/master/lib/儿童拼音.json"
-    },
-    {
-      "key": "儿童识字",
-      "name": "🌟识字┃儿童🌟",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://raw.giteeusercontent.com/tianwikeji/qxzj/raw/master/lib/儿童识字.json"
-    },
-    {
-      "key": "儿童思维",
-      "name": "🌟思维┃儿童🌟",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://raw.giteeusercontent.com/tianwikeji/qxzj/raw/master/lib/儿童思维.json"
-    },
-    {
-      "key": "儿童英语",
-      "name": "🌟英语┃儿童🌟",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://raw.giteeusercontent.com/tianwikeji/qxzj/raw/master/lib/儿童英语.json"
-    },
-    {
-      "key": "儿童硬笔",
-      "name": "🌟硬笔┃儿童🌟",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://raw.giteeusercontent.com/tianwikeji/qxzj/raw/master/lib/儿童硬笔.json"
-    },
-    {
-      "key": "儿童编程",
-      "name": "🌟编程┃儿童🌟",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://raw.giteeusercontent.com/tianwikeji/qxzj/raw/master/lib/儿童编程.json"
-    },
-    {
-      "key": "兴趣培养",
-      "name": "🌟兴趣┃培养🌟",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://raw.giteeusercontent.com/tianwikeji/qxzj/raw/master/lib/兴趣培养.json",
-      "jar": ""
-    },
-    {
-      "key": "儿童",
-      "name": "🌟启蒙┃教育🌟",
-      "type": 3,
-      "api": "https://raw.giteeusercontent.com/tianwikeji/qxzj/raw/master/lib/drpy2.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "ext": "https://raw.giteeusercontent.com/tianwikeji/qxzj/raw/master/lib/兔小贝.js"
-    },
-    {
-      "key": "少儿",
-      "name": "🌟学前┃教育🌟",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "ext": "https://raw.giteeusercontent.com/tianwikeji/qxzj/raw/master/lib/少儿教育.json"
-    },
-    {
-      "key": "学习园地",
-      "name": "🌟各版┃课程🌟",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://raw.giteeusercontent.com/tianwikeji/qxzj/raw/master/lib/Blixt.json"
-    },
-    {
-      "key": "meowtv_xxkt",
-      "name": "🌟小学┃课堂🌟",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "ext": "https://raw.giteeusercontent.com/tianwikeji/qxzj/raw/master/lib/小学课堂.json"
-    },
-    {
-      "key": "meowtv_czkt",
-      "name": "🌟初中┃课堂🌟",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "ext": "https://raw.giteeusercontent.com/tianwikeji/qxzj/raw/master/lib/初中课堂.json"
-    },
-    {
-      "key": "meowtv_gzkt",
-      "name": "🌟高中┃课堂🌟",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "ext": "https://raw.giteeusercontent.com/tianwikeji/qxzj/raw/master/lib/高中课堂.json"
-    },
-    {
-      "key": "央视经典",
-      "name": "🌟央视┃经典🌟",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://raw.giteeusercontent.com/tianwikeji/qxzj/raw/master/lib/哔哩经典.json"
-    },
-    {
-      "key": "央视库",
-      "name": "🌟央视┃动画🌟",
-      "type": 3,
-      "searchable": 1,
-      "playerType": 2,
-      "quickSearch": 1,
-      "filterable": 1,
-      "api": "https://raw.giteeusercontent.com/tianwikeji/qxzj/raw/master/lib/py_央库云.py"
-    },
-    {
-      "key": "txdh",
-      "name": "🌟藤藤┃动画🌟",
-      "type": 3,
-      "api": "https://raw.giteeusercontent.com/tianwikeji/qxzj/raw/master/lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://www.meowtv.cn/js/meow.php?file=txdh"
-    },
-    {
-      "key": "mgdh",
-      "name": "🌟忙忙┃动画🌟",
-      "type": 3,
-      "api": "https://raw.giteeusercontent.com/tianwikeji/qxzj/raw/master/lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://www.meowtv.cn/js/meow.php?file=mgdh"
     },
     {
       "key": "戏曲",
@@ -1108,14 +843,14 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "http://fmys.top/lib/xiqu.json"
+        "json": "./lib/xiqu.json"
       }
     },
     {
       "key": "哔哩影视",
       "name": "🅱️┃哔哩┃影视",
       "type": 3,
-      "api": "http://fmys.top/lib/drpy2.min.js",
+      "api": "./lib/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
@@ -1123,13 +858,13 @@
         "type": "rect",
         "ratio": 1.433
       },
-      "ext": "http://fmys.top/lib/blys.js"
+      "ext": "./lib/blys.js"
     },
     {
       "key": "哔哩影音",
       "name": "🅱️┃哔哩┃影音",
       "type": 3,
-      "api": "http://fmys.top/lib/drpy2.min.js",
+      "api": "./lib/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
@@ -1137,7 +872,7 @@
         "type": "rect",
         "ratio": 1.433
       },
-      "ext": "http://fmys.top/lib/wdbl.js"
+      "ext": "./lib/wdbl.js"
     },
     {
       "key": "哔哩健身",
@@ -1152,7 +887,7 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "http://fmys.top/lib/bili.json"
+        "json": "./lib/bili.json"
       }
     },
     {
@@ -1168,7 +903,7 @@
         "ratio": 1.733
       },
       "ext": {
-        "json": "http://fmys.top/lib/bbqx.json"
+        "json": "./lib/bbqx.json"
       }
     },
     {
@@ -1184,7 +919,7 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "http://fmys.top/lib/yely.json"
+        "json": "./lib/yely.json"
       }
     },
     {
@@ -1200,7 +935,7 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "http://fmys.top/lib/sejy.json"
+        "json": "./lib/sejy.json"
       }
     },
     {
@@ -1216,7 +951,7 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "http://fmys.top/lib/xxkt.json"
+        "json": "./lib/xxkt.json"
       }
     },
     {
@@ -1232,7 +967,7 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "http://fmys.top/lib/czkt.json"
+        "json": "./lib/czkt.json"
       }
     },
     {
@@ -1248,7 +983,7 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "http://fmys.top/lib/gzkt.json"
+        "json": "./lib/gzkt.json"
       }
     },
     {
