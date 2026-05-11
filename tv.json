@@ -33,6 +33,28 @@
       "ext": "https://gitee.com/lionzang/ok/raw/master/atxx/zbzdb1.json"
     },
     {
+		 "key": "bilibiliys",
+      "name": " 🅱‍哔哩NEW影视🅱‍",
+      "type": 3,
+      "api": "csp_WexNewBiLiYSGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "https://support-chat.rongcloud.cn/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYkU9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3083f43a14e6b59f4bfe248478a3a8765b34bfdd/bilisong.txt"
+    },
+    {
+      "key": "bilibili",
+      "name": " 🅱‍哔哩NEW合集🅱‍",
+      "type": 3,
+      "api": "csp_WexNewBiLiGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "https://support-chat.rongcloud.cn/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYkE9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--47a8ff0e68559a89a9a75b37d09a2b0854dc5a8a/bili001.txt"
+    },
+    {
 
 		   "key": "哔哩影视",
             "name": "🅱️┃哔哩┃影视",
