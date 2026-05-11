@@ -30,7 +30,7 @@
       "searchable": 0,
       "changeable": 0,
       "api": "https://gitee.com/lionzang/ok/raw/master/atxx/live2vod.js",
-      "ext": "https://gitee.com/lionzang/ok/raw/master/atxx/zbzdb1.json"
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/ijia520/ijys/refs/heads/main/zb.json"
     },
     {
 		 "key": "bilibiliys",
