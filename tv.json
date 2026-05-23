@@ -1334,7 +1334,20 @@
       "url": "Demo"
     },
     {
-		
+	 "name": "ijys.tv",
+      "type": 1,
+      "url": "https://jiexi.69mini.com/api/?key=c61fd55fa4bdfcd4b545e2d02abdc42a&url=",
+      "ext": {
+        "flag": [
+          "dyttm3u8",
+          "rym3u8",
+          "mtv",
+          "NBY",
+          "lzm3u8"
+        ]
+      }
+    }
+  ],	
   "flags": [
     "youku",
     "qq",
