@@ -5,7 +5,7 @@
     {
       "name": "无",
       "type": 0,
-      "url": "http://110.42.69.237:2233/app/live.txt",
+      "url": " https://gh-proxy.org/https://raw.githubusercontent.com/ijia520/ijys/refs/heads/main/liv.txt",
       "ua": "okhttp/3.15",
       "playerType": 1,
       "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
