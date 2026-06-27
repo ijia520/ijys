@@ -37,18 +37,24 @@
 {"key":"csp_SP360","name":"360┃首战","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},			 
     {   
 
-	"key": "hipy_js_腾讯[官]",
-			"name": "❤️️爱┃腾讯[官]",
-			"type": 3,
-			"api": "https://gh-proxy.org/https://raw.githubusercontent.com/ijia520/ijys/refs/heads/main/lib/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "https://gh-proxy.org/https://raw.githubusercontent.com/ijia520/ijys/refs/heads/main/lib/%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91.js"
-		},
-		{
-	
+  
+
+"key":"天天","name":"天天┃14站","type":3,"api":"csp_TTian","searchable":1,"quickSearch":1,"filterable":1,"ext":"7lj763gg0939791h1l3888jig44gi291li"},
+{"key":"金牌","name":"金牌┃15站","type":3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"filterable":1,"ext":"7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l"},
+ {
+
+	  "key": "柠檬",
+      "name": "蓝光",
+      "type": 3,
+      "api": "csp_Nmvod",
+      "playerType": 2,
+      "jar": "https://gitee.com/tianwikeji/jar/raw/master/柠檬.jar",
+      "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
+    },  
+    {	 
+        
+   
+        
    "key": "mg",
       "name": "芒果4K┃A站",
       "playerType": 2,
@@ -103,15 +109,6 @@
         "jar": "https://gitee.com/ijiatv/ijys/raw/master/tv/%E5%AE%98%E6%BA%90.jar"
     },
  {
-	  "key": "柠檬",
-      "name": "蓝光┃6站",
-      "type": 3,
-      "api": "csp_Nmvod",
-      "playerType": 2,
-      "jar": "https://gitee.com/tianwikeji/jar/raw/master/柠檬.jar",
-      "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
-    },  
-    {	 
       "key": "yk",
       "name": "优酷┃7站",
       "playerType": "2",
@@ -217,11 +214,6 @@
     },
     {
     
-  
-
-"key":"天天","name":"天天┃14站","type":3,"api":"csp_TTian","searchable":1,"quickSearch":1,"filterable":1,"ext":"7lj763gg0939791h1l3888jig44gi291li"},
-{"key":"金牌","name":"金牌┃15站","type":3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"filterable":1,"ext":"7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l"},
- {
 
    "key": "瓜子影视",
       "name": "瓜子┃14站",
