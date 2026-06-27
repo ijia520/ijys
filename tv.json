@@ -37,6 +37,18 @@
 {"key":"csp_SP360","name":"360┃首战","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},			 
     {   
 
+	"key": "hipy_js_腾讯[官]",
+			"name": "❤️️爱┃腾讯[官]",
+			"type": 3,
+			"api": "https://gh-proxy.org/https://raw.githubusercontent.com/ijia520/ijys/refs/heads/main/lib/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "https://gh-proxy.org/https://raw.githubusercontent.com/ijia520/ijys/refs/heads/main/lib/%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91.js"
+		},
+		{
+	
    "key": "mg",
       "name": "芒果4K┃A站",
       "playerType": 2,
