@@ -16,7 +16,7 @@
  {
 
                       "key": "js豆瓣",
-"name": "首页┃豆瓣推荐",
+"name": "首页┃豆瓣推荐|www.ijys.tv",
 "type": 3,
 "api": "https://jihulab.com/ysxsbk/xduo/-/raw/main/libs/drpy2.min.js",
 "searchable": 0,
@@ -53,7 +53,17 @@
     },  
     {	 
         
-   
+     "key": "4k影院专线",
+      "name": "4k爱家┃专线",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "playerType": "2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.li888.top/api.php/app/"
+    },
+    {
         
    "key": "mg",
       "name": "芒果4K┃A站",
@@ -72,6 +82,14 @@
       "ext": "https://app.69mini.com/js/主线1.js"
     },
    {
+    "key": "bili",
+      "name": "哔视",
+      "type": 3,
+      "playerType": 1,
+      "api": "assets://api/drpy2/drpy2.min.js",
+      "ext": "assets://api/js/bili.js"
+    },
+    {
 "key": "csp_qq",
         "name": "腾讯视频┃2站",
         "type": 3,
@@ -143,8 +161,58 @@
 
     {
 
-   
+   "key": "rrcj",
+      "name": "人人",
+      "type": 1,
+      "api": "https://rrzy.qilinzyz.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "电影",
+        "电视剧",
+        "动漫",
+        "综艺",
+        "纪录片"
+      ],
+      "playUrl": "parse:ijys"
+    },
+    { 
  
+   "key": "qlcj",
+      "name": "麒麟",
+      "type": 1,
+      "api": "http://64.83.14.140:52559/app/json/wukong//php/qlcj.php?ac=list",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "犯罪片",
+        "冒险片",
+        "动画片",
+        "武侠片",
+        "奇幻片",
+        "纪录片",
+        "其他片",
+        "国产剧",
+        "港台剧",
+        "欧美剧",
+        "日韩剧",
+        "其他剧",
+        "动漫",
+        "综艺",
+        "番剧（B站）",
+        "国创（B站）",
+        "电视剧（B站）"
+      ],
+      "playUrl": "parse:ijys"
+    },
+    {
 
   "key": "bfzy789",
       "name": "789┃10站",
@@ -1282,9 +1350,9 @@
 		"type": 3,
 		"url": "Demo"
 	}, {
-      "name": "ijys.tv",
+      "name": "ijys",
       "type": 1,
-      "url": "http://zq0143yimmi.xian.zxtongshuo.cn/qq.php?url=",
+      "url": "https://www.faygounion.cn/static/jiexi/jiexi.php?url=",
       "ext": {
         "flag": [
           "dyttm3u8",
