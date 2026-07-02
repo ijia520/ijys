@@ -64,7 +64,19 @@
       "ext": "http://www.li888.top/api.php/app/"
     },
     {
-        
+
+		  "key": "无广告",
+      "name": "4k爱家|NB专线",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "https://app.69mini.com/tvbox/nb.jpg",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://ld.69mzf.cn/api.php/app/"
+    },
+    {
    "key": "mg",
       "name": "芒果4K┃A站",
       "playerType": 2,
@@ -197,18 +209,7 @@
       "ext": "http://jp.69mzf.cn/api.php/app/"
     },
     {
-      "key": "无广告",
-      "name": "备·NB",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "jar": "https://app.69mini.com/tvbox/nb.jpg",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://ld.69mzf.cn/api.php/app/"
-    },
-    {
+    
       "key": "天堂",
       "name": "备·天堂",
       "type": 3,
