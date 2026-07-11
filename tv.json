@@ -1,5 +1,5 @@
 {
-  "spider": "https://gitee.com/tvboxx/tv/raw/master/jar/fish07041155.jar;md5;f8ee64885b266fb64c89083a43400c37",
+  "spider": "",
   "logo": "https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2Ff5309172-1af6-4c4f-a1c5-a4773a1cc718.gif",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
   "danmaku": "http://127.0.0.1:5266/danmu/webhtv?name={name}&episode={episode}",
