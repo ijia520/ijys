@@ -15,6 +15,27 @@
       "ext": "https://jihulab.com/ysxsbk/xduo/-/raw/main/libs/douban.js"
     },
     {
+           "jar": "https://zl.wpscdn.cn/2026/09/11/space_img/0f5c235d-ee40-42a0-a19a-b7f29986c51c.png;md5;7a2cb30dc4937d27e57288b5c381e19c",
+      "name": "公益资源1",
+      "key": "线路14",
+      "type": 3,
+      "api": "csp_Woshinidie",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+           "key": "天1天",
+      "name": "公益资源2",
+      "type": 3,
+      "jar": "https://raw.giteeusercontent.com/ijiatv/ijys/raw/master/Yoursmile.jar",
+      "timeout": 12,
+      "searchable": 1,
+      "quickSearch": 0,
+      "api": "csp_TTian",
+      "ext": "7lj763gg0939791h1l3888jig44gi291li"
+    },
+    {
  "key": "qq",
       "name": "腾讯视频",
       "playerType": 2,
@@ -79,19 +100,9 @@
       "api": "csp_Gz360"
     },
     {
-      "key": "天1天",
-      "name": "免费┆资源3",
-      "type": 3,
-      "jar": "https://raw.giteeusercontent.com/ijiatv/ijys/raw/master/Yoursmile.jar",
-      "timeout": 12,
-      "searchable": 1,
-      "quickSearch": 0,
-      "api": "csp_TTian",
-      "ext": "7lj763gg0939791h1l3888jig44gi291li"
-    },
-    {
+ 
       "key": "csp_Jpys",
-      "name": "免费┆资源4",
+      "name": "免费┆资源3",
       "type": 3,
       "jar": "https://raw.giteeusercontent.com/ijiatv/ijys/raw/master/Yoursmile.jar",
       "timeout": 12,
@@ -102,7 +113,7 @@
     },
     {
       "key": "苹果",
-      "name": "免费┆资源5",
+      "name": "免费┆资源4",
       "type": 3,
       "api": "csp_AppDrama",
       "jar": "https://gitee.com/zhang-xinhai58/my/raw/master/kai.jar",
@@ -123,7 +134,7 @@
     },
     {
       "key": "新首发",
-      "name": "免费┆资源6",
+      "name": "免费┆资源5",
       "type": 3,
       "api": "csp_AppGet",
       "jar": "https://oss-chat-bucket.oss-cn-beijing.aliyuncs.com/picture/console/chatres/7fd101e440d84afa8608480893e72180aFnuu1Uq.jpg;md5;739eb01b9d30692d10d0afa5c6668e24",
@@ -131,16 +142,7 @@
     },
     {
   
-      "jar": "https://zl.wpscdn.cn/2026/09/11/space_img/0f5c235d-ee40-42a0-a19a-b7f29986c51c.png;md5;7a2cb30dc4937d27e57288b5c381e19c",
-      "name": "橘子┆4K",
-      "key": "线路14",
-      "type": 3,
-      "api": "csp_Woshinidie",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
+ 
      
      
       "key": "push_agent",
